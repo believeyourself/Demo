@@ -13,7 +13,6 @@ function component() {
     // test();
   };
   element.appendChild(btn);
-
   return element;
 }
 
